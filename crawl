@@ -1,0 +1,8 @@
+#/bin/sh!
+
+scrapy crawl sohuBrand
+scrapy crawl sohuCompany
+scrapy crawl sohuSeries
+scrapy crawl sohuType
+scrapy crawl sohuMaintenance
+scrapy crawl basicData
